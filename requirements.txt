@@ -1,0 +1,21 @@
+# Multi-Agent Task Coordination Demo
+# Bounty #239 - Build a multi-agent task coordination demo
+# Requirements for running the demo
+
+# LangGraph - Core framework for multi-agent workflows
+langgraph>=0.2.0
+
+# LangChain - LLM framework (optional, for future enhancements)
+langchain>=0.3.0
+
+# Python dotenv for environment variables
+python-dotenv>=1.0.1
+
+# Requests for HTTP calls
+requests>=2.32.0
+
+# Web3 for Ethereum interactions (onchain features)
+web3>=6.20.0
+
+# For type hints
+typing-extensions>=4.9.0
