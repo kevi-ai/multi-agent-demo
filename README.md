@@ -2,6 +2,15 @@
 
 A demonstration of 3 AI agents working together using LangGraph to complete a research → write → publish workflow.
 
+## 🎬 Demo Video
+
+**Watch the demo:** [demo.mp4](https://github.com/kevi-ai/multi-agent-demo/blob/master/demo.mp4)
+
+The video shows the multi-agent workflow in action:
+1. Researcher agent gathering information
+2. Writer agent creating content
+3. Publisher agent finalizing and recording onchain
+
 ## Overview
 
 This demo showcases a multi-agent system where:
